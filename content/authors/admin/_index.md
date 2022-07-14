@@ -1,5 +1,5 @@
 ---
-title: Wei(Willard) Liul
+title: Wei(Willard) Liu
 role: Postgraduate Student in Software Engineering
 bio: ""
 interests:
