@@ -42,7 +42,7 @@ highlight_name: true
 ---
 
 
-Hi! Thank you for visiting my page! I am Gary, who have strong interest on machine-learning-guided formal verification of Hardware/Software. I graduated from Xiamen University in Aug 2020, and now I am a first-year Ph.D. student in HKUST(Guangzhou), supervised by [Dr.Hongce Zhang](https://hongcezh.people.ust.hk/).
+Hi! Thank you for visiting my page! I am Willard, who have strong interest on machine-learning-guided formal verification of Hardware/Software. I graduated from Taiyuan University of Technology in Aug 2020, and now I am a second-year postgraduate student in NWU(Xian), supervised by [](https://hongcezh.people.ust.hk/)[Professor Li Chen](https://ist.nwu.edu.cn/info/1017/1269.htm).
 
 
 
