@@ -1,8 +1,7 @@
 ---
 title: Wei(Willard) Liu
 role: Postgraduate Student in Software Engineering
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
