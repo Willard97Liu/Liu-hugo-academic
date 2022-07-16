@@ -33,7 +33,7 @@ education:
     - course: M.Eng. in Software Engineering    2020 - Now
       institution: Northwest University
       year: ""
-    - course: B.Eng. in Software Engineering    2020
+    - course: B.Eng. in Software Engineering    2016 - 2020
       institution: Taiyuan University of Technology
       year: ""
 email: ""
