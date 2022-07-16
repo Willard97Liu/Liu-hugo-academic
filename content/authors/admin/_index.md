@@ -30,9 +30,6 @@ organizations:
     url: https://www.nwu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: M.Eng. in Software Engineering    2020 - Now
       institution: Northwest University
       year: ""
