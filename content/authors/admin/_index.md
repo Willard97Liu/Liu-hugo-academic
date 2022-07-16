@@ -1,6 +1,6 @@
 ---
 title: Wei(Willard) Liu
-role: Postgraduate Student in Software Engineering
+role: Postgraduate Student in Software Engineering FUCK
 bio: ""
 interests:
   - Artificial Intelligence
