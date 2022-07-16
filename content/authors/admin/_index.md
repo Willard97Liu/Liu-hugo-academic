@@ -18,13 +18,13 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Willard97Liu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Northwest University
+    url: https://www.nwu.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
