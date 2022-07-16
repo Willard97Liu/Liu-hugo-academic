@@ -33,12 +33,12 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Eng. in Software Engineering    2020 - Now
+      institution: Northwest University
+      year: ""
+    - course: B.Eng. in Software Engineering    2020
+      institution: Taiyuan University of Technology
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
