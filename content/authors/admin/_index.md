@@ -1,7 +1,7 @@
 ---
 title: Wei(Willard) Liu
 role: Postgraduate Student in Software Engineering
-avatar_filename: 3d5febb7e0718c1ae54d83f120a76ac.jpg
+avatar_filename: src-http___p7.itc.cn_images01_20210615_dce59da02c3e41ecb0e7b4c4217c66e4.jpeg-refer-http___p7.itc.webp
 bio: ""
 interests:
   - Artificial Intelligence
