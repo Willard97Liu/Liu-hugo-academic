@@ -12,18 +12,6 @@ title: Contact
 subtitle:
 
 content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
   # Contact details (edit or remove options as required)
   email: 202032904@stumail.nwu.edu.cn
   phone: +86  13233553776
