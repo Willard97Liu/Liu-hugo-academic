@@ -42,4 +42,4 @@ highlight_name: true
 ---
 Hi! Thank you for visiting my page! I am Willard, who have strong interest on machine-learning-guided formal verification of Hardware/Software. I graduated from Taiyuan University of Technology in Aug 2020, and now I am a second-year postgraduate student in NWU(Xian), supervised by [](https://hongcezh.people.ust.hk/)[Professor Li Chen](https://ist.nwu.edu.cn/info/1017/1269.htm).
 
-### {{< icon name="download" pack="fas" >}} See my {{<link href="http://www.baidu.com">}} resumé on overleaf.
+### {{< icon name="download" pack="fas" >}} See my {{<href="http://www.baidu.com">}} resumé on overleaf.
