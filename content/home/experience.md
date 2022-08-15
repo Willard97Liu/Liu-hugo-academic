@@ -60,7 +60,7 @@ experience:
   - title: Student
     company: Taiyuan University of Technology
     company_url: http://www.tyut.edu.cn/
-    company_logo: https://unsplash.com/photos/bzdhc5b3Bxs
+    company_logo: rinima
     location: Taiyuan, China
     date_start: '2016-09-01'
     date_end: '2020-07-01'
