@@ -59,7 +59,7 @@ experience:
         * Deploying
   - title: Student
     company: Taiyuan University of Technology
-    company_url: https://www.baidu.com
+    company_url: http://www.tyut.edu.cn/
     company_logo: org-x
     location: Taiyuan, China
     date_start: '2016-09-01'
