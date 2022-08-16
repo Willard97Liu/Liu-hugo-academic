@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: tai-li
+    company_logo: q2
     location: California
     date_start: '2021-01-01'
     date_end: ''
