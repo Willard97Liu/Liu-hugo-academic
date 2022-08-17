@@ -32,18 +32,20 @@ experience:
     description: |2-
         Publications include:
    
-        * Offspring Regeneration Method Based on Bi-Level Sampling for Large-Scale Evolutionary Multi-Objective Optimization. Swarm and Evolutionary Computation.
-          
-          Wei Liu, Li Chen(Corresponding author), Xingxing Hao, Wei Zhou, Fei Xie.  (2022)
-        * Modelling
-        * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+        * Offspring Regeneration Method Based on Bi-Level Sampling for Large-Scale Evolutionary Multi-Objective Optimization. Swarm and Evolutionary Computation. 2022（IF = 10.267）.
+      
+          Wei Liu, Li Chen(Corresponding author), Xingxing Hao, Wei Zhou, Fei Xie.
+        * A two-stage multi-objective evolutionary algorithm for large-scale multi-objective optimization. In IEEE Congress on Evolutionary Computation (CEC) 2022.
+        
+          Wei Liu, Li Chen, Xingxing Hao, Fei Xie et al.
+      
+  - title: Research Intern
+    company: Briup Technology
+    company_url: http://www.briup.com/index.php/
     company_logo: brip
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Shanghai
+    date_start: '2019-09-01'
+    date_end: '2020-03-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Student
