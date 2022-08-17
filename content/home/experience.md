@@ -31,11 +31,7 @@ experience:
     date_end: 'Now'
     description: |2-
         Publications include:
-        
-        * Offspring Regeneration Method Based on Bi-Level Sampling for Large-Scale Evolutionary Multi-Objective Optimization. Swarm and Evolutionary Computation.
-          Wei Liu, Li Chen(Corresponding author), Xingxing Hao, Wei Zhou, Fei Xie.  (2022)
-        * Modelling
-        * Deploying
+     
 
   - title: Professor of Semiconductor Physics
     company: University X
