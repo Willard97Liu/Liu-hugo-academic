@@ -1,7 +1,7 @@
 ---
 title: Wei(Willard) Liu
 role: Postgraduate Student in Software Engineering
-avatar_filename: liuwei.jpg
+avatar_filename: 123.png
 bio: ""
 interests:
   - Nature-inspired Computation
