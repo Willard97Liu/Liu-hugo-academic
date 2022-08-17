@@ -1,30 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Willard97Liu 
-michaelaye
-/
-michaelaye.github.io
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-michaelaye.github.io/config/_default/params.yaml
-@michaelaye
-michaelaye add source files
-Latest commit 780785b on 10 Mar
- History
- 1 contributor
-153 lines (141 sloc)  2.76 KB
-
 # SITE SETUP
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
@@ -178,18 +151,3 @@ cms:
 icon:
   pack:
     ai: true
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
