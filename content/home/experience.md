@@ -22,17 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: teaching assistant（big data and intelligent perception lab）
+    company: Northwest University
+    company_url: https://www.nwu.edu.cn/
     company_logo: xibe
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Xi'an
+    date_start: '2020-09-01'
+    date_end: 'Now'
     description: |2-
-        Responsibilities include:
+        Publications include:
         
-        * Analysing
+        * Offspring Regeneration Method Based on Bi-Level Sampling for Large-Scale Evolutionary Multi-Objective Optimization. Swarm and Evolutionary Computation. (IF>10)
+          Wei Liu, Li Chen(Corresponding author), Xingxing Hao, Wei Zhou, Fei Xie.  (2022)
         * Modelling
         * Deploying
 
