@@ -46,9 +46,12 @@ experience:
     location: Shanghai
     date_start: '2019-09-01'
     date_end: '2020-03-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 
+        
+         * Systematically learned Java and related back-end development frameworks( Spring, Spring MVC, MyBatis, SpringBoot, SpringCloud et al).
+         * Senior Software Designer
 
-  - title: Student
+  - title: 
     company: Taiyuan University of Technology
     company_url: http://www.tyut.edu.cn/
     company_logo: tai2
@@ -58,9 +61,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Develop autonomous car based on deep learning（National Undergraduate Electronics Design Contest）
+        * Design and realize the intelligent management system of college Players.(dissertation)
 
 design:
   columns: '2'
