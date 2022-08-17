@@ -33,6 +33,7 @@ experience:
         Publications include:
    
         * Offspring Regeneration Method Based on Bi-Level Sampling for Large-Scale Evolutionary Multi-Objective Optimization. Swarm and Evolutionary Computation.
+          
           Wei Liu, Li Chen(Corresponding author), Xingxing Hao, Wei Zhou, Fei Xie.  (2022)
         * Modelling
         * Deploying
