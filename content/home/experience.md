@@ -46,7 +46,7 @@ experience:
     location: Shanghai
     date_start: '2019-09-01'
     date_end: '2020-03-01'
-    description: The study of Java and related back-end development frameworks( Spring, Spring MVC, MyBatis, SpringBoot, SpringCloud et al).
+    description: The study of Java and related back-end development frameworks (Spring, Spring MVC, MyBatis, SpringBoot, SpringCloud et al).
         
   - title: 
     company: Taiyuan University of Technology
