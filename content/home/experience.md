@@ -32,10 +32,10 @@ experience:
     description: |2-
         Publications include:
    
-        * Offspring Regeneration Method Based on Bi-Level Sampling for Large-Scale Evolutionary Multi-Objective Optimization. [Swarm and Evolutionary Computation](https://www.baidu.com). 2022（IF = 10.267）.
+        * Offspring Regeneration Method Based on Bi-Level Sampling for Large-Scale Evolutionary Multi-Objective Optimization. [Swarm and Evolutionary Computation](http://www.journals.elsevier.com/swarm-and-evolutionary-computation/). 2022（IF = 10.267）.
       
           Wei Liu, Li Chen(Corresponding author), Xingxing Hao, Wei Zhou, Fei Xie.
-        * A two-stage multi-objective evolutionary algorithm for large-scale multi-objective optimization. In IEEE Congress on Evolutionary Computation (CEC) 2022.
+        * A two-stage multi-objective evolutionary algorithm for large-scale multi-objective optimization. [In IEEE Congress on Evolutionary Computation (CEC) 2022](https://wcci2022.org/).
         
           Wei Liu, Li Chen, Xingxing Hao, Fei Xie et al.
       
