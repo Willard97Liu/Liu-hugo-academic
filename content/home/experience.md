@@ -47,7 +47,6 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-03-01'
     description: 
-    
          * Systematically learned Java and related back-end development frameworks( Spring, Spring MVC, MyBatis, SpringBoot, SpringCloud et al).
          * Senior Software Designer
 
