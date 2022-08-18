@@ -58,7 +58,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Develop autonomous car based on deep learning（National Undergraduate Electronics Design Contest）
+        * Develop autonomous car based on deep learning（[National Undergraduate Electronics Design Contest](http://nuedc.xjtu.edu.cn/)）
         * Design and realize the intelligent management system of college players.(dissertation)
 
 design:
