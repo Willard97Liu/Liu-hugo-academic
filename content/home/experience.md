@@ -59,7 +59,7 @@ experience:
         Responsibilities include:
         
         * Develop autonomous car based on deep learning（National Undergraduate Electronics Design Contest）
-        * Design and realize the intelligent management system of college Players.(dissertation)
+        * Design and realize the intelligent management system of college players.(dissertation)
 
 design:
   columns: '2'
