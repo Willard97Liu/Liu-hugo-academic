@@ -34,7 +34,7 @@ experience:
    
         * Offspring Regeneration Method Based on Bi-Level Sampling for Large-Scale Evolutionary Multi-Objective Optimization. [Swarm and Evolutionary Computation](http://www.journals.elsevier.com/swarm-and-evolutionary-computation/). 2022（IF = 10.267）.
       
-          Wei Liu, [Li Chen](https://ist.nwu.edu.cn/info/1017/1269.htm)(Corresponding author), [Xingxing Hao](https://ist.nwu.edu.cn/info/1019/1681.htm), Wei Zhou, [Xin Cao](https://ist.nwu.edu.cn/info/1018/1662.htm), Fei Xie.
+          [Wei Liu](https://www.willard97.me/), [Li Chen](https://ist.nwu.edu.cn/info/1017/1269.htm), [Xingxing Hao](https://ist.nwu.edu.cn/info/1019/1681.htm), Wei Zhou, [Xin Cao](https://ist.nwu.edu.cn/info/1018/1662.htm), Fei Xie.
         * A two-stage multi-objective evolutionary algorithm for large-scale multi-objective optimization. [In IEEE Congress on Evolutionary Computation (CEC) 2022](https://wcci2022.org/).
         
           Wei Liu, Li Chen, Xingxing Hao, Fei Xie et al.
