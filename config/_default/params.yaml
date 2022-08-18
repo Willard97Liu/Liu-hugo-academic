@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: ocean
+theme: cyberpunk
 day_night: false
-font: Cyberpunk 
-font_size: XL
+font: cyberpunk 
+font_size: xl
 
 # SEO
 
