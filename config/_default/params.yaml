@@ -7,8 +7,8 @@
 
 theme: ocean
 day_night: true
-font: 'native'
-font_size: L
+font: 'Cyberpunk'
+font_size: xl
 
 # SEO
 
