@@ -6,8 +6,8 @@
 # Appearance
 
 theme: ocean
-day_night: true
-font: 'Cyberpunk'
+day_night: false
+font: 'Mr Robot'
 font_size: xl
 
 # SEO
