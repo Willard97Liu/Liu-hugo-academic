@@ -42,7 +42,7 @@ experience:
   - title: R&D Engineer
     company: New Road Network Technology Co., Ltd.
     company_url: https://www.nroad.com.cn/
-    company_logo: brip
+    company_logo: newroad
     location: Xi'an
     date_start: '2021-05-01'
     date_end: '2021-09-01'
