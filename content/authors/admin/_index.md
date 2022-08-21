@@ -3,7 +3,7 @@ title: Wei(Willard) Liu
 role: Postgraduate Student in Software Engineering
 avatar_filename: avatar.jpg
 bio: ""
-interests
+interests:
   - Machine Learning
   - Multi-objective Optimization
   - Evolutionary Transfer Optimization
