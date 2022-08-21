@@ -39,6 +39,14 @@ experience:
         
           Wei Liu, Li Chen, Xingxing Hao, Fei Xie et al.
       
+  - title: R&D Engineer
+    company: New Road Network Technology Co., Ltd.
+    company_url: https://www.nroad.com.cn/
+    company_logo: brip
+    location: Xi'an
+    date_start: '2021-05-01'
+    date_end: '2021-09-01'
+    
   - title: Research Intern
     company: Briup Technology
     company_url: http://www.briup.com/index.php/
@@ -46,7 +54,6 @@ experience:
     location: Shanghai
     date_start: '2019-09-01'
     date_end: '2020-03-01'
-    description: The study of Java and related back-end development frameworks (Spring, Spring MVC, MyBatis, SpringBoot, SpringCloud et al).
         
   - title: 
     company: Taiyuan University of Technology
@@ -58,8 +65,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Develop autonomous car based on deep learning（[National Undergraduate Electronics Design Contest](http://nuedc.xjtu.edu.cn/)）
-        * Design and realize the intelligent management system of college players.(dissertation)
+        * Design autonomous driving car based on deep Learning（[National Undergraduate Electronics Design Contest](http://nuedc.xjtu.edu.cn/)）
+        * Design and realize the intelligent management system of college players(dissertation)
 
 design:
   columns: '2'
