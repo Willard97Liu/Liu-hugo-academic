@@ -25,5 +25,4 @@ highlight_name: true
 ---
 Hi! Thank you for visiting my page! I am Willard (刘伟). I graduated from Taiyuan University of Technology in Aug 2020, and now I am a third-year postgraduate student in NWU(Xian), supervised by [Professor Li Chen](https://ist.nwu.edu.cn/info/1017/1269.htm). My research interests are in machine learning and deep learning, and specifically in neural network, multi/many-objective optimization, large-scale optimization and evolutionary transfer optimization.
 
-### {{< icon name="download" pack="fas" >}} See my [resumé](https://www.overleaf.com/project/62d4dbf1884020cb4eacfa76) on overleaf.
 ### {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}
