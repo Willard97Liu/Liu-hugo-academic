@@ -32,7 +32,7 @@ experience:
     description: |2-
         Publications include:
   
-        * {{< staticref "uploads/cv.pdf" "newtab" >}}Offspring Regeneration Method Based on Bi-Level Sampling for Large-Scale Evolutionary Multi-Objective Optimization.{{< /staticref >}} [Swarm and Evolutionary Computation](http://www.journals.elsevier.com/swarm-and-evolutionary-computation/). 2022（IF = 10.267）.
+        * [Offspring Regeneration Method Based on Bi-Level Sampling for Large-Scale Evolutionary Multi-Objective Optimization.](https://github.com/Willard97Liu/Liu-hugo-academic/blob/dev4/static/uploads/LMOEA-DSNS.pdf) [Swarm and Evolutionary Computation](http://www.journals.elsevier.com/swarm-and-evolutionary-computation/). 2022（IF = 10.267）.
       
           [Wei Liu](https://www.willard97.me/), [Li Chen](https://ist.nwu.edu.cn/info/1017/1269.htm), [Xingxing Hao](https://ist.nwu.edu.cn/info/1019/1681.htm), Wei Zhou, [Xin Cao](https://ist.nwu.edu.cn/info/1018/1662.htm), Fei Xie.
         * A two-stage multi-objective evolutionary algorithm for large-scale multi-objective optimization. [In IEEE Congress on Evolutionary Computation (CEC) 2022](https://wcci2022.org/).
