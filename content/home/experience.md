@@ -49,7 +49,7 @@ experience:
     
   - title: Research Intern
     company: Briup Technology
-    company_url: http://www.briup.com/index.php/
+    company_url:
     company_logo: brip
     location: Shanghai
     date_start: '2019-09-01'
