@@ -5,7 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Machine Learning
-  - Multi-objective Optimization
+  - Multi-Objective Optimization
+  - Data Mining
   - Evolutionary Transfer Optimization
   - Deep Learning
 organizations:
