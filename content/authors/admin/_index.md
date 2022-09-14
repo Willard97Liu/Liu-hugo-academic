@@ -1,5 +1,5 @@
 ---
-title: Wei(Willard) Liu
+title: Wei(Averill) Liu
 role: Postgraduate Student in Software Engineering
 avatar_filename: avatar.jpg
 bio: ""
@@ -23,6 +23,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! Thank you for visiting my page! I am Willard (刘伟). I graduated from Taiyuan University of Technology in Aug 2020, and now I am a third-year postgraduate student in NWU(Xi'an), supervised by [Professor Li Chen](https://ist.nwu.edu.cn/info/1017/1269.htm). My research interests are in machine learning, deep learning, data mining, and specifically in multi/many-objective optimization, large-scale optimization and evolutionary transfer optimization.
+Hi! Thank you for visiting my page! I am Averill (刘伟). I graduated from Taiyuan University of Technology in Aug 2020, and now I am a third-year postgraduate student in NWU(Xi'an), supervised by [Professor Li Chen](https://ist.nwu.edu.cn/info/1017/1269.htm). My research interests are in machine learning, deep learning, data mining, and specifically in multi/many-objective optimization, large-scale optimization and evolutionary transfer optimization.
 
 ### {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}
